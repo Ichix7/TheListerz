@@ -1,0 +1,161 @@
+<Items>
+	<Item>
+		<Store>BestBuy</Store>
+		<Item>Samsung 4k TV</Item>
+		<Price>5000.00</Price>
+	</Item>
+	
+	<Item>
+		<Store>BestBuy</Store>
+		<Item>Toshiba</Item>
+		<Price>49.99</Price>
+	</Item>	
+	
+	<Item>
+		<Store>BestBuy</Store>
+		<Item>AppleiPodTouch32GBBlue</Item>
+		<Price>249.99</Price>
+	</Item>	
+	
+	<Item>
+		<Store>BestBuy</Store>
+		<Item>SonyPlaystation4500GB</Item>
+		<Price>249.99</Price>
+	</Item>	
+	
+	<Item>
+		<Store>BestBuy</Store>
+		<Item>HorizonZeroDawn</Item>
+		<Price>59.99</Price>
+	</Item>
+	
+	<Item>
+		<Store>Walmart</Store>
+		<Item>Cuisinart8-Cup</Item>
+		<Price>99.99</Price>
+	</Item>	
+	
+	<Item>
+		<Store>Walmart</Store>
+		<Item>NinjaBlender1200</Item>
+		<Price>149.99</Price>
+	</Item>
+	
+	<Item>
+		<Store>Walmart</Store>
+		<Item>CrownMarkQueenSize</Item>
+		<Price>299.99</Price>
+	</Item>	
+	
+	<Item>
+		<Store>Walmart</Store>
+		<Item>6pcBlackTowelSet</Item>
+		<Price>19.99</Price>
+	</Item>	
+	
+	<Item>
+		<Store>Walmart</Store>
+		<Item>2pcBlackRugSet</Item>
+		<Price>9.99</Price>
+	</Item>	
+	
+	<Item>
+		<Store>Meijer</Store>
+		<Item>10lbPurinaPuppyChow</Item>
+		<Price>39.99</Price>
+	</Item>	
+	
+	<Item>
+		<Store>Meijer</Store>
+		<Item>MoanaDoll</Item>
+		<Price>9.99</Price>
+	</Item>
+	
+	<Item>
+		<Store>Meijer</Store>
+		<Item>JohnWick</Item>
+		<Price>9.99</Price>
+	</Item>
+	
+	<Item>
+		<Store>Meijer</Store>
+		<Item>24pcCrayolaCrayon</Item>
+		<Price>9.99</Price>
+	</Item>
+	
+	<Item>
+		<Store>Meijer</Store>
+		<Item>Size36BlackJeans</Item>
+		<Price>19.99</Price>
+	</Item>
+
+	<Item>
+		<Store>GameStop</Store>
+		<Item>XBoxOneBattleFieldbundle500GB</Item>
+		<Price>299.99</Price>
+	</Item>
+	
+	<Item>
+		<Store>GameStop</Store>
+		<Item>PlayStationVRUntilDawnBundle</Item>
+		<Price>499.99</Price>
+	</Item>	
+	
+	<Item>
+		<Store>GameStop</Store>
+		<Item>TurtleBeachStealth350VRGamingHeadSet</Item>
+		<Price>59.99</Price>
+	</Item>
+	
+		
+	<Item>
+		<Store>GameStop</Store>
+		<Item>Tekken7</Item>
+		<Price>59.99</Price>
+	</Item>	
+	
+	<Item>
+		<Store>GameStop</Store>
+		<Item>ZeldaSpecialEditionGiftCard</Item>
+		<Price>50.00</Price>
+	</Item>
+
+			
+	<Item>
+		<Store>Target</Store>
+		<Item>ize12-2pcWomensSleepSet</Item>
+		<Price>19.99</Price>
+	</Item>	
+	
+	<Item>
+		<Store>Target</Store>
+		<Item>36PackChickenRamen</Item>
+		<Price>29.99</Price>
+	</Item>
+	
+		<Item>
+		<Store>Target</Store>
+		<Item>24K-PakChocolateDoughnutCoffee</Item>
+		<Price>29.99</Price>
+	</Item>	
+	
+	<Item>
+		<Store>Target</Store>
+		<Item>PanteenProVShampoo48oz</Item>
+		<Price>9.99</Price>
+	</Item>
+	
+	<Item>
+		<Store>Target</Store>
+		<Item>PanteenProVShampoo48oz</Item>
+		<Price>9.99</Price>
+	</Item>
+</Items>
+
+
+
+
+
+
+
+

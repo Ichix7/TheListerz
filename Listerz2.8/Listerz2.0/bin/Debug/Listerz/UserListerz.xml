@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserLists>
+  <User>
+    <Store>Walmart</Store>
+    <Item>6pcBlackTowelSet</Item>
+    <Price>19.99</Price>
+    <UserName>test</UserName>
+  </User>
+  <User>
+    <Store>Meijer</Store>
+    <Item>Size36BlackJeans</Item>
+    <Price>19.99</Price>
+    <UserName>test</UserName>
+  </User>
+  <User>
+    <Store>BestBuy</Store>
+    <Item>Toshiba</Item>
+    <Price>49.99</Price>
+    <UserName>Trial</UserName>
+  </User>
+  <User>
+    <Store>Walmart</Store>
+    <Item>2pcBlackRugSet</Item>
+    <Price>9.99</Price>
+    <UserName>Trial</UserName>
+  </User>
+  <User>
+    <Store>GameStop</Store>
+    <Item>ZeldaSpecialEditionGiftCard</Item>
+    <Price>50.00</Price>
+    <UserName>Trial</UserName>
+  </User>
+  <User>
+    <Store>GameStop</Store>
+    <Item>TurtleBeachStealth350VRGamingHeadSet</Item>
+    <Price>59.99</Price>
+    <UserName>Trial</UserName>
+  </User>
+  <User>
+    <Store>Target</Store>
+    <Item>PanteenProVShampoo48oz</Item>
+    <Price>9.99</Price>
+    <UserName>Trial</UserName>
+  </User>
+  <User>
+    <Store>Walmart</Store>
+    <Item>6pcBlackTowelSet</Item>
+    <Price>19.99</Price>
+    <UserName>Trial</UserName>
+  </User>
+  <User>
+    <Store>Target</Store>
+    <Item>24K-PakChocolateDoughnutCoffee</Item>
+    <Price>29.99</Price>
+    <UserName>Trial</UserName>
+  </User>
+  <User>
+    <Store>Meijer</Store>
+    <Item>10lbPurinaPuppyChow</Item>
+    <Price>39.99</Price>
+    <UserName>My List</UserName>
+  </User>
+  <User>
+    <Store>Meijer</Store>
+    <Item>24pcCrayolaCrayon</Item>
+    <Price>9.99</Price>
+    <UserName>My List</UserName>
+  </User>
+  <User>
+    <Store>BestBuy</Store>
+    <Item>SonyPlaystation4500GB</Item>
+    <Price>249.99</Price>
+    <UserName>My List</UserName>
+  </User>
+  <User>
+    <Store>BestBuy</Store>
+    <Item>Toshiba</Item>
+    <Price>49.99</Price>
+    <UserName>My List</UserName>
+  </User>
+</UserLists>
